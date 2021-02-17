@@ -2,6 +2,8 @@
 
 获取 Oculus Quest 商店的打折信息
 
+国内可以访问这个地址查看：[https://fwindpeak.gitee.io/oculus-quest-store-list/#/](https://fwindpeak.gitee.io/oculus-quest-store-list/#/)
+
 ## TODO
 
 - [x] 分类改为 Tab
