@@ -4,6 +4,14 @@
 
 可以访问这个地址查看：[https://fwindpeak.gitee.io/oculus-quest-store-list/#/](https://fwindpeak.gitee.io/oculus-quest-store-list/#/)
 
+
+## 说明
+
+- 使用github action，访问oculus quest store页面接口，下载全部游戏信息保存成json
+- 使用vue+vant ui做一个单页应用，访问这个json
+- 使用[这个action](https://github.com/yanglbme/gitee-pages-action)同步仓库文件到gitee，并刷新pages
+
+
 ## TODO
 
 - [x] 分类改为 Tab
@@ -34,3 +42,4 @@ oculus quest 商店的所有操作整合到一个脚本
 
 - 保存的 json 文件删除了一些不需要的信息，以减少体积
 - 保存的 json 使用了格式化换行，方便查看 git 记录
+- 因为gitee检测到异地登录需要验证，可以绑定gitee的微信公众号，避免验证
