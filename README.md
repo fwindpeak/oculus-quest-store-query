@@ -1,8 +1,8 @@
 # Oculus Quest Store 信息查询
 
-获取 Oculus Quest 商店的打折信息
+使用github action 定时获取 Oculus Quest 商店的打折信息，并推送到gitee pages页面，生成静态页面。
 
-国内可以访问这个地址查看：[https://fwindpeak.gitee.io/oculus-quest-store-list/#/](https://fwindpeak.gitee.io/oculus-quest-store-list/#/)
+可以访问这个地址查看：[https://fwindpeak.gitee.io/oculus-quest-store-list/#/](https://fwindpeak.gitee.io/oculus-quest-store-list/#/)
 
 ## TODO
 
